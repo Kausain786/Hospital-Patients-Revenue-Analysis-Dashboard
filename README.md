@@ -1,4 +1,4 @@
-https://cdn.corenexis.com/files/c/2576523720.png
+<img width="1284" height="724" alt="Screenshot 2026-04-30 133900" src="https://github.com/user-attachments/assets/30162f61-d8b3-44ae-b1a9-81077ba82cb0" />
 
 This Power BI dashboard analyzes hospital patient data and revenue trends. It provides insights into admissions, department performance, disease distribution, and monthly trends using interactive visualizations and filters.
 
