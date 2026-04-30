@@ -1,3 +1,5 @@
+https://cdn.corenexis.com/files/c/2576523720.png
+
 This Power BI dashboard analyzes hospital patient data and revenue trends. It provides insights into admissions, department performance, disease distribution, and monthly trends using interactive visualizations and filters.
 
 This project presents an interactive Hospital Patients & Revenue Analysis Dashboard built using Power BI. The dashboard provides a comprehensive view of hospital operations by analyzing patient admissions, revenue generation, length of stay, and disease distribution.
